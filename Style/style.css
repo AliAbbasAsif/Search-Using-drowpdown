@@ -1,0 +1,14 @@
+body{
+    background-color: #222;
+    color: white;
+}
+.csss{
+    margin: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cssss{
+    display: flex;
+    font-size: 20px;
+}
